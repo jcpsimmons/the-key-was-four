@@ -1,0 +1,6 @@
+SYNTHETIC OFFLINE LAB | P-384 | no real CA keys
+Public key search: private scalar recovered after 4 guesses
+Recovered key signs a new certificate for demo.invalid
+Verifier trusts our lab root: ACCEPTED (exit 0)
+Verifier trusts an unrelated root: REJECTED (exit 2)
+No certificates installed. Temporary public certificates removed.

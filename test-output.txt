@@ -1,0 +1,10 @@
+test_chain_acceptance_and_distrust (test_demo.DemoTests.test_chain_acceptance_and_distrust) ... ok
+test_outside_search_is_not_recovered (test_demo.DemoTests.test_outside_search_is_not_recovered) ... ok
+test_recovered_key_can_sign (test_demo.DemoTests.test_recovered_key_can_sign) ... ok
+test_recovers_four_from_public_key (test_demo.DemoTests.test_recovers_four_from_public_key) ... ok
+test_search_boundary (test_demo.DemoTests.test_search_boundary) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.948s
+
+OK
